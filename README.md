@@ -38,10 +38,19 @@ Este prototipo tiene como objetivo apoyar la educación financiera de adultos j�
 
 ## 📋 Requisitos
 
-- Python 3.8 o superior
+- Python 3.8 o superior (recomendado 3.10 o 3.11)
 - pip (gestor de paquetes de Python)
+- 4GB RAM mínimo (8GB recomendado)
+- 500MB espacio en disco
 
-## 🔧 Instalación
+**📚 Documentación de Instalación Completa:**
+- **Guía detallada:** Ver [INSTALACION.md](INSTALACION.md) - Instrucciones paso a paso completas
+- **Guía rápida:** Ver [INSTALACION_RAPIDA.md](INSTALACION_RAPIDA.md) - Solo comandos esenciales
+- **Guía para Windows:** Ver [INSTALACION_WINDOWS.md](INSTALACION_WINDOWS.md) - Instalación específica para Windows
+
+## 🔧 Instalación Rápida
+
+> **💡 Para una guía completa con solución de problemas, consulta [INSTALACION.md](INSTALACION.md)**
 
 1. **Navegar al directorio del proyecto:**
 ```bash
